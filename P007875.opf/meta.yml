@@ -3,5 +3,37 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD137798
   title: རྗེ་བཙུན་ལམ་རིམ་པ་ངག་དབང་ཕུན་ཚོགས་ཀྱི་གསུང་འབུམ།
-  volume: ''
+  volume:
+    dc743b055c794e0bbedd9675d08881c3:
+      image_group_id: I2PD18554
+      title: Volume 1 of rje btsun lam rim pa ngag dbang phun tshogs kyi gsung 'bum/
+      volume_number: 1
+      total_pages: 370
+    cb5f02e17173482faae48f1391ee810e:
+      image_group_id: I2PD18555
+      title: Volume 2 of rje btsun lam rim pa ngag dbang phun tshogs kyi gsung 'bum/
+      volume_number: 2
+      total_pages: 460
+    7ffb0bbcb6884e3cb5b5048859987833:
+      image_group_id: I2PD18556
+      title: Volume 3 of rje btsun lam rim pa ngag dbang phun tshogs kyi gsung 'bum/
+      volume_number: 3
+      total_pages: 358
+    3b107f9a1ef04eeea22daae427902bbc:
+      image_group_id: I2PD18557
+      title: Volume 4 of rje btsun lam rim pa ngag dbang phun tshogs kyi gsung 'bum/
+      volume_number: 4
+      total_pages: 710
+    7457792c555545cd954bb124719c20cc:
+      image_group_id: I2PD18558
+      title: Volume 5 of rje btsun lam rim pa ngag dbang phun tshogs kyi gsung 'bum/
+      volume_number: 5
+      total_pages: 346
   author: ''
+ebook_metadata:
+  title: རྗེ་བཙུན་ལམ་རིམ་པ་ངག་དབང་ཕུན་ཚོགས་ཀྱི་གསུང་འབུམ།
+  author: ''
+  sku: P007875
+  cover: cover.jpg
+  layers:
+  - pagination
