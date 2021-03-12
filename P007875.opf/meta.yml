@@ -5,31 +5,36 @@ source_metadata:
   title: རྗེ་བཙུན་ལམ་རིམ་པ་ངག་དབང་ཕུན་ཚོགས་ཀྱི་གསུང་འབུམ།
   author: ''
   volumes:
-    4f90e1ec95cc45d79452c9b8dde1e115:
+    dc743b055c794e0bbedd9675d08881c3:
       image_group_id: I2PD18554
-      title: ''
+      title: Volume 1 of rje btsun lam rim pa ngag dbang phun tshogs kyi gsung 'bum/
       volume_number: 1
       total_pages: 370
-    071c97d063444cb2b1bfab622c0ddc3b:
+      base_file: v001.txt
+    cb5f02e17173482faae48f1391ee810e:
       image_group_id: I2PD18555
-      title: ''
+      title: Volume 2 of rje btsun lam rim pa ngag dbang phun tshogs kyi gsung 'bum/
       volume_number: 2
       total_pages: 460
-    e1016a999d9b4b15bc0c9f21c7dd7cf5:
+      base_file: v002.txt
+    7ffb0bbcb6884e3cb5b5048859987833:
       image_group_id: I2PD18556
-      title: ''
+      title: Volume 3 of rje btsun lam rim pa ngag dbang phun tshogs kyi gsung 'bum/
       volume_number: 3
       total_pages: 358
-    7888d4d9951d4974ab5ca1369359ea22:
+      base_file: v003.txt
+    3b107f9a1ef04eeea22daae427902bbc:
       image_group_id: I2PD18557
-      title: ''
+      title: Volume 4 of rje btsun lam rim pa ngag dbang phun tshogs kyi gsung 'bum/
       volume_number: 4
       total_pages: 710
-    80a778ccb317469fb6ba83057a63856b:
+      base_file: v004.txt
+    7457792c555545cd954bb124719c20cc:
       image_group_id: I2PD18558
-      title: ''
+      title: Volume 5 of rje btsun lam rim pa ngag dbang phun tshogs kyi gsung 'bum/
       volume_number: 5
       total_pages: 346
+      base_file: v005.txt
 ebook_metadata:
   title: རྗེ་བཙུན་ལམ་རིམ་པ་ངག་དབང་ཕུན་ཚོགས་ཀྱི་གསུང་འབུམ།
   author: ''
